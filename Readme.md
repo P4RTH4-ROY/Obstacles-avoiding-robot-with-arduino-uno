@@ -13,7 +13,9 @@ Motor Driver: L293D H-Bridge motor driver
 Power Supply: 12V lithium-ion battery
 Chassis: Basic robot chassis with wheels and motor mounts
 
-**Circuit Diagram**
+**Robot Final Look**
+![IMG-20240524-WA0011-removebg-preview](https://github.com/user-attachments/assets/2017e2ac-43b0-4195-bdb1-4ad139b96fd0)
+
 
 **Contact**
 For any questions or feedback, feel free to reach out to proy48878@gmail.com or open an issue in the repository.
