@@ -16,4 +16,4 @@ Chassis: Basic robot chassis with wheels and motor mounts
 **Circuit Diagram**
 
 **Contact**
-For any questions or feedback, feel free to reach out to absarmd2014@gmail.com or open an issue in the repository.
+For any questions or feedback, feel free to reach out to proy48878@gmail.com or open an issue in the repository.
